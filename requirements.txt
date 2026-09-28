@@ -1,0 +1,2 @@
+# Microsoft Foundry Local SDK
+foundry-local-sdk>=1.2.4

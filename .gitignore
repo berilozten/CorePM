@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Environments & Virtual Environments
+corepm_env/
+venv/
+.venv/
+env/
+.env
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Microsoft Foundry Local cache & model files
+.foundry/
+*.onnx
+*.bin
+*.model
+*foundry*cache*
+models/
+
+# Application backups & scratch files
+app_*backup*.py
+app_*working*.py
+app_final_working.py
+docs/*backup*.txt
+scratch/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary & Log files
+*.log
+*.tmp
+.pytest_cache/

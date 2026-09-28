@@ -1,0 +1,59 @@
+User ID: 1042
+Feature: Onboarding Flow
+Feedback: The new onboarding flow is very confusing. I couldn't find the "Skip" button anywhere, so I was forced to connect my bank account before even seeing the dashboard. This is a huge privacy concern for me. Please make the bank connection step optional during sign-up.
+
+User ID: 1187
+Feature: Onboarding Flow
+Feedback: I was asked for too much information before I could even try the product. I wanted to explore the dashboard first and complete my profile later.
+
+User ID: 1264
+Feature: Login
+Feedback: The login screen keeps rejecting my correct password after the app has been running for a while. I have to close and reopen the app before I can log in again.
+
+User ID: 1392
+Feature: Payments
+Feedback: My card payment stays on a loading spinner for several minutes. I don't know whether the payment went through, so I am afraid to try again.
+
+User ID: 2011
+Feature: Payment Checkout
+Feedback: When trying to pay with Mastercard on checkout, the 3D Secure verification window spins infinitely and crashes the mobile app. I was charged twice but never received my subscription confirmation.
+
+User ID: 2148
+Feature: Search & Filters
+Feedback: The search filters reset every time I navigate to the next page. I have to select the same filters again to continue reviewing results.
+
+User ID: 2261
+Feature: Search
+Feedback: Search often returns unrelated results even when I use the exact product name. It takes too long to find what I need.
+
+User ID: 2389
+Feature: Notifications
+Feedback: I receive too many notifications for small events. The app sends several alerts for the same activity and it is becoming annoying.
+
+User ID: 2475
+Feature: Notifications
+Feedback: I cannot choose which notifications I want to receive. I would like separate controls for promotional messages and important account alerts.
+
+User ID: 2613
+Feature: Performance
+Feedback: The dashboard takes around ten seconds to load on my phone. Sometimes the charts appear blank until I leave the screen and come back.
+
+User ID: 2741
+Feature: Transfers
+Feedback: My bank transfer showed as pending for the entire day without any explanation. I did not know whether I should wait or contact support.
+
+User ID: 2856
+Feature: Subscription
+Feedback: I cancelled my subscription but the app still shows the renewal date and I am not sure whether the cancellation actually worked.
+
+User ID: 2970
+Feature: Profile
+Feedback: Changing my profile photo is difficult because the save button is hidden below the keyboard on smaller screens.
+
+User ID: 3084
+Feature: Customer Support
+Feedback: I could not find a clear way to contact support when I had a payment issue. The help section only showed generic articles.
+
+User ID: 3197
+Feature: Dashboard
+Feedback: I would like to see my spending summary immediately when I open the dashboard instead of having to tap through several sections.
